@@ -1,6 +1,6 @@
 # Weiss Center Accessibility-First UX Resources
 
-![Rhonda Weiss Center Logo](https://example.com/rhondaweisscenter_logo.png)
+![Rhonda Weiss Center Logo](https://github.com/WeissCenter/ux-resources/assets/135261167/6da6e8ee-8c48-403e-a9f1-cb39c7ceb16b)
 
 Welcome, UX professionals, to the Rhonda Weiss Center for Accessible IDEA Data's UX Resources Repository! Our mission is to promote accessibility and inclusivity in user experience design within the realm of IDEA (Individuals with Disabilities Education Act) data and beyond. Created by the Office of Special Education Programs (OSEP) under the US Department of Education, the Rhonda Weiss Center is dedicated to providing resources, guidance, and support to ensure that digital products and services are accessible to all users, including those with disabilities.
 

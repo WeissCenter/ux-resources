@@ -35,4 +35,4 @@ We invite anyone passionate about accessibility and UX design to contribute to t
 
 ---
 
-**Disclaimer:** This repository is maintained by the Rhonda Weiss Center for Accessible IDEA Data, a division of the Office of Special Education Programs (OSEP) under the US Department of Education. The views expressed here do not necessarily reflect the views of the US Department of Education.
+**Disclaimer:** This repository is maintained by the Rhonda Weiss Center for Accessible IDEA Data, an accessibility center of the Office of Special Education Programs (OSEP) under the US Department of Education. 

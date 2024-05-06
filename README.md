@@ -27,9 +27,6 @@ Read real-world case studies and success stories of companies or projects that h
 ### 5. Training Resources
 Access online courses, tutorials, and workshops focused on accessibility in UX design and development. Whether you're a beginner or an experienced practitioner, discover resources to enhance your knowledge and skills in accessibility.
 
-### 6. Community Resources
-Connect with other UX professionals passionate about accessibility. Join forums, discussion groups, and communities to share ideas, ask questions, and collaborate on accessibility initiatives.
-
 ## How to Contribute
 We invite anyone passionate about accessibility and UX design to contribute to this repository! Whether you have resources to share, insights to offer, or suggestions for improvement, we welcome your contributions. Simply [open an issue](https://github.com/WeissCenter/ux-resources/issues/new/choose) to get in touch with us and start the conversation. Together, let's make the digital world more accessible and inclusive for everyone!
 

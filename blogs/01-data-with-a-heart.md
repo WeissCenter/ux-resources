@@ -2,17 +2,11 @@ Blog 1
 
 ---- 
 
-# Data with a Heart: How We Make Information Accessible
+# How We Make Information Accessible
 By Marcelo Paiva, Inclusive Design and Accessibility Lead at the Weiss Center
- 
 
 ## Beyond Numbers and Charts
 
-<img width="470" alt="image" src="https://github.com/WeissCenter/ux-resources/assets/135261167/4d8da6e1-81e1-40f5-a4c2-5689be184039">
-
-Caption: The photo captures a tender moment between our imaginary mother Lisa and her son Daniel, 7 years old, at the beach. Daniel gently kisses his mother on the cheek, showing affection and love. Lisa, a dedicated parent, is deeply invested in understanding how her son Daniel's school is supporting his special needs.
-
-## Beyond Numbers and Charts
 Data isn't just a collection of numbers and charts; it's a set of information that influences decisions, policies, and lives.  When IDEA (Individuals with Disabilities Education Act) data is accessible and well-represented, it reveals the strengths and weaknesses of special education programs. It highlights areas where resources are needed, where teachers might benefit from additional training, and how education can be tailored to meet diverse needs. By representing data thoughtfully, we empower stakeholders to make informed decisions that drive positive change.
 
 ## The Power of Words
@@ -24,7 +18,10 @@ At the Weiss Center, we believe that the language we use shapes our perceptions.
 ## A Commitment to Excellence and Innovation
 
 The Weiss Center’s journey is toward embracing the highest standards of the Web Content Accessibility Guidelines (WCAG) which reflects our unwavering dedication to the people we serve—educators, students, and parents. Our goal is oriented toward ensuring everyone can access and understand IDEA data in a meaningful way. A key outcome is to the individuals who rely on this information to make informed decisions and advocate for better educational outcomes.
-At the heart of our efforts at the Weiss Center to make IDEA data accessible, is the Accessible Data Analysis and Publishing Tool (ADAPT). This open-source software initiative is designed to assist others to make IDEA data accessible to all, transcending mere compliance to achieve unparalleled accessibility standards. ADAPT is more than a tool; it's a vision of data as a universally accessible resource that fosters knowledge and inclusion..                               
+
+At the heart of our efforts at the Weiss Center to make IDEA data accessible, is the Accessible Data Analysis and Publishing Tool (ADAPT). This open-source software initiative is designed to assist others to make IDEA data accessible to all, transcending mere compliance to achieve unparalleled accessibility standards. ADAPT is more than a tool; it's a vision of data as a universally accessible resource that fosters knowledge and inclusion.
+
+Bring users to [ADAPT page](https://weissta.org/adapt)
 
 ----
 
@@ -33,6 +30,10 @@ Blog 2
 ---- 
 
 # Bringing ADAPT to Life: A Compelling Use-Case
+
+<img width="470" alt="image" src="https://github.com/WeissCenter/ux-resources/assets/135261167/4d8da6e1-81e1-40f5-a4c2-5689be184039">
+
+Caption: The photo captures a tender moment between our imaginary mother Lisa, and her son Daniel, 7 years old, at the beach. Daniel gently kisses his mother on the cheek, showing affection and love. Lisa, a dedicated parent, is deeply invested in understanding how her son Daniel's school is supporting his special needs.
 
 Imagine a parent named Lisa, a teacher named Mr. Thompson, and a Department of Education representative named Mrs. Gonzales, all interacting with ADAPT.
 Lisa's son, Daniel, has special needs, and she wants to understand how his school is supporting him. Using ADAPT, Lisa can easily access detailed reports on the school’s special education programs. She sees where the programs excel and where they need improvement. This information empowers her to advocate effectively for Daniel’s needs during parent-teacher meetings.
@@ -49,6 +50,11 @@ When we began designing ADAPT, we prioritized involving individuals with disabil
 Our efforts with ADAPT exemplify our vision for the future of data representation. By reimagining "data visualization" as "data representation," we're not just changing terminology; we're pioneering a path where accessibility and inclusivity are at the core of data analysis. At the Weiss Center, we are committed to creating a more equitable world of data, where every individual, regardless of ability, has the opportunity to engage with and understand the stories data tells.
 
 ## Conclusion
+
+Comments from Jim Lesko:
+- (As a parent, how will ADAPT be useful)
+- Add image of ADAPT
+- 
 
 In summary, our efforts are about making data accessible and inclusive for everyone, ensuring that it serves as a powerful tool for decision-making.
 
